@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Mahbubur Rahman</h1>
-<h3 align="center">A qualified developer with 1.10 years of experience who excels in modifying existing software, as well as creating, designing, and testing user-centered applications using software programming languages.</h3>
+<h3 align="center">A qualified developer who excels in modifying existing software, as well as creating, designing, and testing user-centered applications using software programming languages.</h3>
 
 - 🔭 I’m currently working on **Loosely Coupled Technologies**
 
