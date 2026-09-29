@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-Senior Software Developer with 4+ years of experience in MERN stack, full-stack development, and scalable
+Senior Software Developer with 4+ years of experience in full-stack development, and scalable
 system design. Skilled in Node.js, React, REST APIs, CI/CD pipelines, and cloud platforms (Azure). Experienced
 in building data-driven platforms, automation systems, and hybrid mobile integrations (Android WebView, JS
 Bridge). Proven ability to lead teams and deliver high-performance applications.
@@ -21,9 +21,9 @@ Bridge). Proven ability to lead teams and deliver high-performance applications.
 ## 🚀 Current Activities
 
 * 🔭 Working at **Loosely Coupled Technologies**
-* 🌱 Exploring **Go, AI Agent**
+* 🌱 Exploring **AI Agent, Automation**
 * ⚙️ Building **data-driven platforms & automation tools**
-* 📱 Working on **Hybrid mobile integrations (Android WebView, JS Bridge)**
+* 📱 Working on **Business AI Worker**
 
 ---
 
